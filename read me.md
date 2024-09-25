@@ -1,3 +1,3 @@
 # exact project
 
-learning 1st
+learning 1
